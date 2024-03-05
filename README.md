@@ -10,7 +10,9 @@ None.
 
 ## Usage
 
-Clicking on the links using mouse 1 leads you to other websites.
+Clicking on the links using mouse 1 leads you to other websites,
+example of how the page looks like below.
+![plot](./image/Example.png)
 
 ## Credits
 
