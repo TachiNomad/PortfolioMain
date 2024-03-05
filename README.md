@@ -13,6 +13,7 @@ None.
 Clicking on the links using mouse 1 leads you to other websites,
 example of how the page looks like below.
 ![plot](./image/Example.png)
+![plot](./image/Example1.png)
 
 ## Credits
 
