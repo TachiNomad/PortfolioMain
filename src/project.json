@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Horiseon",
+      "info": "An example of my neating up code skills.",
+      "link": "https://github.com/TachiNomad/Horiseon-Website"
+    },
+    {
+      "id": 2,
+      "name": "NewCentral",
+      "info": "A porfolio I made using ccs.",
+      "link": "https://github.com/TachiNomad/NewCentral"
+    },
+    {
+      "id": 3,
+      "name": "Bootstrap Portfolio",
+      "info": "A porfolio I made using bootstrap.",
+      "link": "https://github.com/TachiNomad/Bootstrap-Portfolio"
+    },
+    {
+      "id": 4,
+      "name": "Console Finances",
+      "info": "A code the calculates fiances using javascript.",
+      "link": "https://github.com/TachiNomad/Console-Finances"
+    },
+    {
+      "id": 5,
+      "name": "Password Generator",
+      "info": "A password generator I made using javascript.",
+      "link": "https://github.com/TachiNomad/Password-Generator"
+    },
+    {
+      "id": 4,
+      "name": "Work Day Scheduler",
+      "info": "Using javascript to help with work day scheduler.",
+      "link": "https://github.com/TachiNomad/Work-Day-Scheduler"
+    },
+    {
+      "id": 4,
+      "name": "City Weather Finder",
+      "info": "Apikey that helps with showing the weather forcast.",
+      "link": "https://github.com/TachiNomad/City-Weather-Finder"
+    },
+    {
+      "id": 4,
+      "name": "readmeGen",
+      "info": "A readme generator made with node.",
+      "link": "https://github.com/TachiNomad/readmeGen"
+    },
+    {
+      "id": 4,
+      "name": "Quiz",
+      "info": "A coding quiz that uses multpile javascripts.",
+      "link": "https://github.com/TachiNomad/Quiz"
+    }
+  ]
+  

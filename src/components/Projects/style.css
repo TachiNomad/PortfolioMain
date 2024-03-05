@@ -1,0 +1,19 @@
+.projectfiles {
+  background: #FC9A05;
+  border-radius: 2px;
+  height: 55px;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  position: relative;
+  width: 1200px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: center;
+  font-size: 30px;
+  color: #FFDDC3;
+}
+
+nav {
+  background-color: #FCB805;
+  color: #FC1A05;
+  padding: 10px;
+}
